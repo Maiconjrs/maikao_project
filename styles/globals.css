@@ -1,0 +1,12 @@
+/* NextJS */
+/* ================== */
+html {
+  height: 100%;
+}
+body,
+#__next {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+}
